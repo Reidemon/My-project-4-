@@ -14,6 +14,6 @@ public class HOLA : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        print("la vida es una mierda y todos somos sus putas");
     }
 }
