@@ -8,7 +8,7 @@ public class HOLA : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        print("Hello world");
+        print("puto el que lo lea");
     }
 
     // Update is called once per frame
