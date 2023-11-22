@@ -5,7 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - azul
-  - ball
+  - red
+  - active
   layers:
   - Default
   - TransparentFX
