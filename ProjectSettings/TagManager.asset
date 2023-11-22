@@ -7,6 +7,9 @@ TagManager:
   - azul
   - red
   - active
+  - Table
+  - BlueSlab
+  - Start
   layers:
   - Default
   - TransparentFX

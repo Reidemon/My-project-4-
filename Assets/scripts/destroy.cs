@@ -11,5 +11,10 @@ public class destroy : MonoBehaviour
         {
             Destroy(GameObject.FindWithTag("red"));
         }
+
+        //else if (collision.gameObject.CompareTag("red"))
+       // {
+         //   Destroy(GameObject.FindWithTag("BlueSlab"));
+       // }
     }
 }
